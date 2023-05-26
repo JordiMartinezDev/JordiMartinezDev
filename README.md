@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordimartinezdev&label=Profile%20views&color=0e75b6&style=flat" alt="jordimartinezdev" /> </p>
 
-- 🔭 I’m currently working on [Simplified](private repo for now)
-
 - 🌱 I’m currently learning **Solidity**
 
 - 👨‍💻 All of my projects are available at [jordimartinezdev.com](jordimartinezdev.com)
 
 - 🗺️ My fiddles with code about Maps Api : https://jsfiddle.net/user/fiddles/all/
 
-- 💬 Ask me about **MERN/MEAN Stack**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **jordimartinezdev@gmail.com**
 
