@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Jordi</h1>
-<h3 align="center">A passionate Full Stack Web Developer & Web 3 Dev</h3>
+<h3 align="center">A passionate Full Stack Web2 and Web3 Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordimartinezdev&label=Profile%20views&color=0e75b6&style=flat" alt="jordimartinezdev" /> </p>
 
