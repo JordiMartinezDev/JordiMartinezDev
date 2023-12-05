@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordimartinezdev&label=Profile%20views&color=0e75b6&style=flat" alt="jordimartinezdev" /> </p>
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 Currently focused on **Solidity** and Web3js with React
 
 - 👨‍💻 All of my projects are available at [jordimartinezdev.com](jordimartinezdev.com)
 
 - 🗺️ My fiddles with code about Maps Api : https://jsfiddle.net/user/fiddles/all/
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **MERN Stack** , **Web3** development
 
-- 📫 How to reach me **jordimartinezdev@gmail.com**
+- 📫 Reach me at **jordimartinezdev@gmail.com**
 
-- ⚡ Hobbies **Padel / Climbing / Tenis / Golf**
+- ⚡ Hobbies **Gaming / Blockchain / Padel / Climbing / Tennis / Golf**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
