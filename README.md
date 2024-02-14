@@ -5,7 +5,7 @@
 
 - 🌱 Currently focused on **Solidity** and Web3js with React
 
-- 👨‍💻 All of my projects are available at [jordimartinezdev.com](jordimartinezdev.com)
+- 👨‍💻 All of my projects are available at [jordimartinezdev.com](https://jordimartinezdev.com)
 
 - 🗺️ My fiddles with code about Maps Api : https://jsfiddle.net/user/fiddles/all/
 
