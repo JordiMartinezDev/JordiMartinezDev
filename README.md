@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [jordimartinezdev.com](https://jordimartinezdev.com)
 
-- 🗺️ My fiddles with code about Maps Api : https://jsfiddle.net/user/fiddles/all/
-
 - 💬 Ask me about **MERN Stack** , **Web3** development
 
 - 📫 Reach me at **jordimartinezdev@gmail.com**
