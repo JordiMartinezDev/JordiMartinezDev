@@ -7,11 +7,12 @@
 
 - 👨‍💻 All of my projects are available at [jordimartinezdev.com](https://jordimartinezdev.com)
 
-- 💬 Ask me about **MERN Stack** , **Web3** development
+- 💬 Schedule a meeting on Calendly at https://calendly.com/jordimartinezdev/job-interview
 
 - 📫 Reach me at **jordimartinezdev@gmail.com**
 
 - ⚡ Hobbies **Gaming / Blockchain / Padel / Climbing / Tennis / Golf**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
