@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordimartinezdev&label=Profile%20views&color=0e75b6&style=flat" alt="jordimartinezdev" /> </p>
 
-- 🌱 Currently focused on **Solidity** and EthersJS and NextJS 
-
 - 👨‍💻 All of my projects are available at [jordimartinezdev.com](https://jordimartinezdev.com)
 
 - 💬 Schedule a meeting on Calendly at https://calendly.com/jordimartinezdev/job-interview
