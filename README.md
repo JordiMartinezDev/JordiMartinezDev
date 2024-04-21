@@ -9,7 +9,7 @@
 
 - 📫 Reach me at **jordimartinezdev@gmail.com**
 
-- ⚡ Hobbies **Gaming / Blockchain / Padel / Climbing / Tennis / Golf**
+- ⚡ Hobbies **Padel / Climbing / Tennis / Golf**
   
 
 <h3 align="left">Connect with me:</h3>
