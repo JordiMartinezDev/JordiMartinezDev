@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordimartinezdev&label=Profile%20views&color=0e75b6&style=flat" alt="jordimartinezdev" /> </p>
 
+Currently focused on building Mobile Apps with React Native ( front-end ) and Java ( back-end )
+
 - 📫 Reach me at **jordimartinezdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
