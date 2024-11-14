@@ -1,9 +1,24 @@
-<h1 align="center">Hello 👋, I'm Jordi</h1>
-<h3 align="center">A passionate Full Stack Web2 and Web3 Developer</h3>
+<h1 align="center">Hello 👋, I'm Jordi Martinez</h1>
+<h3 align="center">Software Engineer at Bon Preu</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordimartinezdev&label=Profile%20views&color=0e75b6&style=flat" alt="jordimartinezdev" /> </p>
 
-Currently focused on building Mobile Apps with React Native ( front-end ) and Java ( back-end )
+Stacks:
+
+  Frontend
+    - React Native ( Mobile apps )
+    - React
+    - Javascript
+    - Typescript
+  
+  Backend
+    - NodeJS
+    - Java
+
+  Web3
+    - Solidity ( Smart contracts )
+    - EthersJS
+    - Web3JS
 
 - 📫 Reach me at **jordimartinezdev@gmail.com**
 
